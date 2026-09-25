@@ -1,7 +1,7 @@
 # SimpleJavaFXApp
 
-Student Number: 202502250
-Name: Tembo J. Ernest
+Student Number: 202506777
+Name: Lawrence Lubumbula
 
 ## How to run
 
